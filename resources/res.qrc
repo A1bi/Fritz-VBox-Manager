@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gfx/disable.png</file>
+        <file>gfx/enable.png</file>
+        <file>gfx/General Preferences.tiff</file>
+        <file>gfx/icon.png</file>
+        <file>gfx/update.png</file>
+    </qresource>
+</RCC>
